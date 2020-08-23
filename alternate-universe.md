@@ -5,4 +5,4 @@ An alternate universe, also known as a _mirror universe_, is a subset of [parall
 
 ## Vedtren System
 
-The Vedtren System is located in an alternate universe which is [fictionally connected] to this universe. Because of this fictional connection, corresponding events in the Vedtren System are less reflective than what would be expected of a [really connected] alternate universe. Because connection is symmetric, this universe is also an alternate universe of the Vedtren System.
+The Vedtren System is located in an alternate universe which is [fictionally connected](connectivity.md#fictional-connectivity) to this universe. Because of this fictional connection, corresponding events in the Vedtren System are less reflective than what would be expected of a [really connected](connectivity.md#real-connectivity) alternate universe. Because connection is symmetric, this universe is also an alternate universe of the Vedtren System.
